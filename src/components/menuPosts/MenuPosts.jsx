@@ -18,8 +18,8 @@ const MenuPosts = ({ withImage }) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </h3>
           <div className={styles.detail}>
-            <span className={styles.username}>John Doe</span>
-            <span className={styles.date}> - 10.03.2023</span>
+            <span className={styles.username}>Omar Ayman</span>
+            <span className={styles.date}> - 04.05.2023</span>
           </div>
         </div>
       </Link>
@@ -37,8 +37,8 @@ const MenuPosts = ({ withImage }) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </h3>
           <div className={styles.detail}>
-            <span className={styles.username}>John Doe</span>
-            <span className={styles.date}> - 10.03.2023</span>
+            <span className={styles.username}>Omar Ayman</span>
+            <span className={styles.date}> - 04.05.2023</span>
           </div>
         </div>
       </Link>
@@ -54,8 +54,8 @@ const MenuPosts = ({ withImage }) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </h3>
           <div className={styles.detail}>
-            <span className={styles.username}>John Doe</span>
-            <span className={styles.date}> - 10.03.2023</span>
+            <span className={styles.username}>Omar Ayman</span>
+            <span className={styles.date}> - 04.05.2023</span>
           </div>
         </div>
       </Link>
@@ -73,8 +73,8 @@ const MenuPosts = ({ withImage }) => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </h3>
           <div className={styles.detail}>
-            <span className={styles.username}>John Doe</span>
-            <span className={styles.date}> - 10.03.2023</span>
+            <span className={styles.username}>Omar Ayman</span>
+            <span className={styles.date}> - 04.05.2023</span>
           </div>
         </div>
       </Link>
